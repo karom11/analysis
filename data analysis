@@ -1,0 +1,30 @@
+
+amazon :
+
+	-Products :
+		- category ---> sub category *
+		- title 
+		- sub title
+		- ratings*
+		- prise 
+		- size *
+		- imges
+		- deteels 
+		- social media *
+		- Have a question? *
+		- Customers who bought this item also bought *
+		- Customers who viewed this item also viewed *
+		- Product description
+		- Product details
+		- sub details
+		- Customer reviews:  *
+		- Customer questions & answers *
+		- sub questions 
+		- Customer reviews  *
+		- Related to items you've viewed *
+		- More items to consider
+		- Your Browsing History *
+		- foter 
+
+
+
