@@ -1,6 +1,22 @@
 
 amazon :
 
+
+	-uesr :
+
+		- information
+
+			- name 
+			- num 
+			- emil
+			- adr
+			- orders
+			- vists
+			-Cancelling order
+			-Complete the order
+			
+
+
 	-Products :
 		- category ---> sub category *
 		- title 
@@ -26,5 +42,20 @@ amazon :
 		- Your Browsing History *
 		- foter 
 
+
+
+
+
+	- Supplier :
+
+		- information
+
+			- name 
+			- num
+			- The number of its products
+			- Payment method
+			- cobon 
+			- guarantee
+			- Delivery Service
 
 
